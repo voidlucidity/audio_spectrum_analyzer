@@ -30,6 +30,14 @@ jupyter lab
 
 Use [analyzer.ipynb](analyzer.ipynb) as a starting point.
 
+### Example visualizations
+
+Spectrogram
+![Spectrogram](readme_spectrogram.png)
+
+Spectrum
+![FFT spectrum](readme_spectrum.png)
+
 ## Tips for best results
 
 **Choose a stationary interval** — analysis accuracy depends on the signal being spectrally stable throughout the selected window. Avoid sections with fades, transitions, or varying effects.
